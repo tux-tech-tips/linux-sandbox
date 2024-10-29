@@ -13,5 +13,5 @@ python
 bash (for install script)
 <u><b>Distros:</b></u>
 Currently only arch is available for linux sandbox but in the future other distros will be available.
-<B>Important:</B>
+<p><B>Important:</B></p>
 The Downloaded directory(folder) should be placed in the home directory of your user. (/home/username)
