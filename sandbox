@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Launching Linux Sandbox"
+python3 ~/sandbox/sandbox.py
