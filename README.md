@@ -14,4 +14,4 @@ bash (for install script)
 <u><b>Distros:</b></u>
 Currently only arch is available for linux sandbox but in the future other distros will be available.
 <p><B>Important:</B></p>
-The Downloaded directory(folder) should be placed in the home directory of your user. (/home/username)
+Also Extract the tar.gz file from the releases to your home folder. (/home/username)
